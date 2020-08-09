@@ -39,12 +39,13 @@ Here are some ideas to get you started:
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssd2192&layout=compact)](https://github.com/ssd2192) -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssd2192)](https://github.com/ssd2192)
+[![Sandeep's Github Stats](https://github-readme-stats.vercel.app/api?username=ssd2192&include_all_commits=true&show_icons=true)](https://github.com/ssd2192)
 
 ---
 
 
 <!-- <img align="left" alt="Sandeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssd2192&include_all_commits=true&show_icons=true&hide_border=false" />
 -->
- [![Sandeep's Github Stats](https://github-readme-stats.vercel.app/api?username=ssd2192&include_all_commits=true&show_icons=true)](https://github.com/ssd2192)
+<!-- [![Sandeep's Github Stats](https://github-readme-stats.vercel.app/api?username=ssd2192&include_all_commits=true&show_icons=true)](https://github.com/ssd2192) -->
 
 [linkedin]: https://www.linkedin.com/in/sandeep-dhillon-cs/
