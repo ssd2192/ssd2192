@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on .NET CORE and React
+- ⚡ [Slack Clone using React and Firebase][slack-clone]
 - 🌱 I’m currently learning Python and Blockchain
 <!-- -- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
@@ -49,3 +50,4 @@ Here are some ideas to get you started:
 <!-- [![Sandeep's Github Stats](https://github-readme-stats.vercel.app/api?username=ssd2192&include_all_commits=true&show_icons=true)](https://github.com/ssd2192) -->
 
 [linkedin]: https://www.linkedin.com/in/sandeep-dhillon-cs/
+[slack-clone]: https://slack-clone-69aba.web.app/
