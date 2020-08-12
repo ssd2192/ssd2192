@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on .NET CORE and React
-- ⚡ [Slack Clone using React and Firebase][slack-clone]
+- ⚡ [Slack Clone using React and Firebase Database & Authentication][slack-clone]
 - 🌱 I’m currently learning Python and Blockchain
 <!-- -- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
