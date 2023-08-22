@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on .NET CORE and React
+- 🔭 I’m currently working on Frontend Development using HTML5, CSS3, Bootstrap, and Angular
 - ⚡ [Slack Clone using React and Firebase Database & Authentication][slack-clone]
 - 🌱 I’m currently learning Python and Blockchain
 <!-- -- 👯 I’m looking to collaborate on ... 
